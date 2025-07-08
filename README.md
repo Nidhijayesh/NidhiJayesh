@@ -2,8 +2,8 @@
 # 👋 Hi, I'm Nidhi Maladwala
 
 🎓 Masters of Science in Quantitative finance - Passionate for Algorithmic trading, and data-driven decision making.  
-📊 Currently working on Python-based trading strategy projects while learning linear algebra, market microstructure, and HFT systems.
-
+📊 Currently working on Python-based trading strategy projects while learning linear algebra, market microstructure.
+Key Topics : Algorithmic Trading and Quantitative Strategies | Developing HFT Systems | Strategies
 ---
 
 ### 🧠 What I'm Working On
@@ -17,7 +17,7 @@
 
 ### 🧰 Tech Stack
 
-- **Languages:** Python (pandas, numpy, matplotlib, yfinance, scikit-learn, statsmodels)
+- **Languages:** Python (pandas, numpy, matplotlib, yfinance, scikit-learn, statsmodels), Java, C++
 - **Tools:** Jupyter, Excel, Git, GitHub, SQL (basic)
 
 ---
@@ -25,10 +25,10 @@
 ### 📂 Notable Projects
 
 - 📊 **Mean Reversion Strategy Engine** – Analyzes SMA/EMA-based entry signals using OHLC average prices.
-- 📈 **Automated Weekly Finance Dashboard** – Cuts manual reporting time using Excel + Python automation.
+- 📈 **First Order Correlation** – Computing Satistical measurements  
 - 🧪 **Strategy Performance Analyzer** – Computes CAGR, Sharpe ratio, and Max Drawdown across strategies.
 
-→ [Explore my repositories](https://github.com/your-github-username)
+→ [Explore my repositories](https://github.com/nidhijayesh)
 
 ---
 
